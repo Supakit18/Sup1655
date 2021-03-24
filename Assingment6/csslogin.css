@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+    font-family: kanit;
+    
+}
+
+legend{
+    
+    font-size: 36px ;
+    color: black;
+}
+
+h2{
+    font-size: 16px ;
+    color: crimson;
+}
+input{
+    margin: 5px;
+    font-size:  22px ;
+}
